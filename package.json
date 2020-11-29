@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.799.0"
+    "aws-sdk": "^2.799.0",
+    "chrome-aws-lambda": "^5.5.0",
+    "puppeteer-core": "^5.5.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^5.5.0"
   }
 }
